@@ -23,6 +23,8 @@ You Can See the Screenshots of the Quiz Application:
 	<img src="/screenshots/6.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshots/7.png" width = "200" height= "350" hspace=40>
 	<img src="/screenshots/8.png" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/9.png" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/10.png" width = "200" height= "350" hspace=40>
 </p>
 
 ## If you have any queries or suggestions you can follow me on instagram: @dino_coder
