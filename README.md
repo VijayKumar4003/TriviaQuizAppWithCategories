@@ -1,5 +1,5 @@
 # TriviaQuizAppWithCategories
-Trivia App with Categories
+Trivia Quiz App with Categories by using Room database Library.
 
 Welcome to Trivia Quiz App's with categories open source Android app! 
 
